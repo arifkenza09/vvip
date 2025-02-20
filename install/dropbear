@@ -18,4 +18,3 @@ DROPBEAR_BANNER="/etc/issue.net"
 #
 # to specify custom host keys.  See dropbear(8) for possible values.
 #DROPBEAR_EXTRA_ARGS="-p 50000 -p 109 -p 110 -p 69"""
-  
